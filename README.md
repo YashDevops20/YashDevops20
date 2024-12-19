@@ -15,7 +15,7 @@ I'm an aspiring DevOps Engineer with a strong passion for automation, cloud tech
 
 - 🌱 I’m currently learning **AWS, Docker, Kubernetes, Terraform, Automation, Jenkins, Ansible, Maven,**
 - 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Automation, Jenkins, Ansible,**
-- 📫 How to reach me **yashguj2000@gmail.com**
+- 📫 How to reach me **yashdevops20@gmail.com**
 
 ---
 
@@ -24,7 +24,7 @@ I'm an aspiring DevOps Engineer with a strong passion for automation, cloud tech
 <p align="left">
   <a href="https://twitter.com/yash_gujrathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_gujrathi" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/yash-gujrathi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-gujrathi20" height="30" width="40" /></a>
-  <a href="https://instagram.com/yashgujrathi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashgujrathi21" height="30" width="40" /></a>
+  <a href="https://instagram.com/yashgujrathi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashgujrathi24" height="30" width="40" /></a>
 </p>
 
 ---
